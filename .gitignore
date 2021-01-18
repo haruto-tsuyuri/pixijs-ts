@@ -1,0 +1,7 @@
+# ignore vscode setting.
+vscode/
+
+# ignore local images.
+images/
+
+node_modules/
